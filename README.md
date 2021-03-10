@@ -3,6 +3,10 @@
 ## Description 
 Survive 2020 is an interactive text-based game in which the user will navigate through a series of options with the goal of not succumbing to panic during the pandemic. The story that the user experiences will change based on different decisions made. 
 
+## Access and Installation
+
+Access live site [HERE](https://mattmoe1.github.io/Survive-2020)
+
 ## Functionality 
 - NAVIGATION: The user will be presented with a series of buttons with options that, when pressed, will  reveal a hidden slide that corresponds with the selection made. if the user makes it to the end screen, win or lose, they will have their score recorded and will be asked if they want to start the game over again.
 
@@ -10,11 +14,9 @@ Survive 2020 is an interactive text-based game in which the user will navigate t
 
 - ABOUT: the user will have access to the ABOUT screen which will contain the basic intro and explanation for the game.
 
-## Look
+## View
 <img src= "images/home.png" width="800">
 
-
-Website URL: https://mattmoe1.github.io/Survive-2020/
 
 ## Contributors: 
 Cynthia Garcia
